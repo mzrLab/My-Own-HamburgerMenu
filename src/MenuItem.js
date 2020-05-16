@@ -15,7 +15,7 @@
     render(){
       const styles={
         container: {
-          opacity: 0,
+          opacity: 1,
           animation: '1s appear forwards',
           animationDelay:this.props.delay,
         },
